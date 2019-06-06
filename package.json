@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/iamUxer/movie-app-react.git",
+  "author": "yuri <bonethecomer@gmail.com>",
+  "license": "MIT"
 }
